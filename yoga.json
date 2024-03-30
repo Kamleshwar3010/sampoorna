@@ -1,0 +1,210 @@
+[
+    {
+        "Name": "Ardha Titali Asana (half butterfly)",
+        "Image": [
+            "./image/Half_Butterfly.png"
+        ],
+        "Tag": [
+            "Ardha Titali Asana (half butterfly)",
+            "Half-Butterfly",
+            "Asana"
+        ],
+        "Description": "Sit in the base position.Bend the right leg and place the right foot comfortably on the left thigh.Place the right hand on top of the bent right knee.Hold the toes of the right foot with the left hand.This is the starting position. While breathing in, gently move the right knee up towards the chest. Breathing out, gently push the knee down and try to touch the knee to the floor.The trunk should not move.Do not force this movement in any way.The leg muscles should be passive, the movement being achieved by the exertion of the right arm.Slowly practise 10 up and down movements. ",
+        "Benifits": "This is an excellent preparatory practice for loosening up the knee and hip joints for meditative poses. Those people who cannot sit comfortably in cross-legged positions should practise ardha titali asana daily, both morning and evening.",
+        "Category": "Asana"
+    },
+    {
+        "Name": "Poorna Titali Asana (full butterfly)",
+        "Image": [
+            "./image/Full_Butterfly-1.png",
+            "./image/Full_Butterfly-2.png"
+        ],
+        "Tag": [
+            "Poorna Titali Asana (full butterfly)",
+            "Full Buterfly",
+            "Asana"
+        ],
+        "Description": "Sit in the base position.Bend the knees and bring the soles of the feet together, keeping the heels as close to the perineum as possible.Fully relax the inner thigh muscles.Stage 1 : Clasp the feet with both hands.Gently move the knees up and then down towards the floor, but do not use any force.Practise up to 30 up and down movements.Stage 2 : Keep the soles of the feet together.Place the hands on the knees.Using the hands, gently push the knees down towards the floor, allowing them to spring up again. Do not force this movement.Repeat 10 to 30 times. Straighten the legs and relax.Breathing : Normal breathing, unrelated to the practice.",
+        "Benifits": "Both stages prepare the legs for mastery of padmasana and other meditative asanas. The inner thigh muscles hold a lot of tension which is relieved by these asanas. They also remove tiredness due to long hours of standing and walking.",
+        "Category": "Asana"
+    },
+    {
+        "Name": "Blinking",
+        "Image": [],
+        "Tag": [
+            "Blinking",
+            "Exercise For Eyes"
+        ],
+        "Description": "Sit with the eyes open.Blink the eyes 10 times quickly.Close the eyes and relax for 5 or 6 relaxed breaths.Repeat the blinking 10 times quickly and then again close the eyes and relax.Repeat 5 times.",
+        "Benifits": "Many people with defective eyesight blink irregularly and unnaturally. This is related to the state of habitual tension in the eyes. This exercise encourages the blinking reflex to become spontaneous, inducing relaxation of the eye muscles.",
+        "Category": "Eyes Exercise"
+    },
+    {
+        "Name": "Sideways viewing",
+        "Image": [
+            "./image/Sidway_vieving.png"
+        ],
+        "Tag": [
+            "Sideways Viewing",
+            "Exercise For Eyes"
+        ],
+        "Description": "Assume a sitting position with the legs straight in front of the body.Raise the arms to the sides at shoulder level, keeping them straight, make a loose fist and point the thumbs upwards. The thumbs should be just in the peripheral vision when the head is facing forward. If they are not clearly visible, bring them slightly forward until they come into view. The head should not move. Look at a fixed point directly in front and on a level with the eyes. Fix the position of the head in this neutral position. Then, without moving the head sideways, focus the eyes on the following, one after the other: a) left thumb b) space between the eyebrows, bhrumadhya c) right thumb d) space between the eyebrows e) left thumb. Repeat this cycle 10 times, keeping the head and spine straight throughout.Finally, close and rest the eyes. Palming may be performed several times.Breathing Inhale in the neutral position.Exhale while looking to the sides.Inhale and come to the centre",
+        "Benifits": "Sideways viewing relaxes the tension of the muscles strained by constant reading and close work. It also prevents and corrects squint.",
+        "Category": "Eyes Exercise"
+    },
+    {
+        "Name": "Padmasana (lotus pose)",
+        "Image": [
+            "./image/Lotus_Pose.png"
+        ],
+        "Tag": [
+            "Padmasana (lotus pose)",
+            "Loutus Pose",
+            "Pose For Meditation",
+            "Meditation"
+        ],
+        "Description": "Sit with the legs straight in front of the body.Slowly and carefully bend one leg and place the foot on top of the opposite thigh.The sole should face upward and the heel should be close to the pubic bone.When this feels comfortable, bend the other leg and place the foot on top of the opposite thigh.Both knees should, ideally, touch the ground in the final position.The head and spine should be held upright and the shoulders relaxed.Place the hands on the knees in chin or jnana mudra.Relax the arms with the elbows slightly bent and check that the shoulders are not raised or hunched Close the eyes and relax the whole body.Observe the total posture of the body. Make the necessary adjustments by moving forward or backward until balance and alignment are experienced. Perfect alignment indicates the correct posture of padmasana",
+        "Benifits": "Padmasana allows the body to be held completely steady for long periods of time. It holds the trunk and head like a pillar with the legs as the firm foundation. As the body is steadied, themind becomes calm. This steadiness and calmness is the first step towards real meditation.Padmasana directs the flow of prana from mooladhara chakra in the perineum to sahasrara chakra in the head, heightening the experience of meditation.This posture applies pressure to the lower spine, which has a relaxing effect on the nervous system. The breath becomes slow, muscular tension is decreased and blood pressure is reduced.The normally large blood flow to the legs is redirected to the abdominal region. This activity also stimulates the digestive process",
+        "Category": "Meditation Asana"
+    },
+    {
+        "Name": "Ardha Padmasana (half lotus pose)",
+        "Image": [
+            "./image/Half_Lotus_Pose.png"
+        ],
+        "Tag": [
+            "Ardha Padmasana (half lotus pose)",
+            "Half-Loutus Pose",
+            "Pose For Meditation",
+            "Meditation"
+        ],
+        "Description": "Sit with the legs straight in front of the body. Bend one leg and place the sole of the foot on the inside of the opposite thigh.Bend the other leg and place the foot on top of the opposite thigh.Without straining, try to place the upper heel as near as possible to the abdomen. Adjust the position so that it is comfortable.Place the hands on the knees in either chin or jnana mudra. Keep the back, neck and head upright and straight.Close the eyes and relax the whole body.",
+        "Benifits": "The same benefits as given for padmasana but at a reduced level.",
+        "Category": "Meditation Asana"
+    },
+    {
+        "Name": "Shavasana (corpse pose)",
+        "Image": [
+            "./image/savasana.png"
+        ],
+        "Tag": [
+            "Shavasana (corpse pose)",
+            "Asana For Relexation"
+        ],
+        "Description": "Lie flat on the back with the arms about 15 cm away from the body, palms facing upward. A thin pillow or folded cloth may be placed behind the head to prevent discomfort. Let the fingers curl up slightly.Move the feet slightly apart to a comfortable position and close the eyes.The head and spine should be in a straight line.Make sure the head does not fall to one side or the other. Relax the whole body and stop all physical movement.Become aware of the natural breath and allow it to become rhythmic and relaxed.After some time, again become aware of the body and surroundings, and gently and smoothly release the posture.Breathing : Natural and relaxed, or begin to count the breaths from number 27 backwards to zero.Mentally repeat, “I am breathing in 27, I am breathing out 27, I am breathing in 26, I am breathing out 26”, and so on, back to zero.If the mind wanders and the next number is forgotten, bring it back to the counting and start again at 27. If the mind can be kept on the breath for a few minutes, the body will relax.Duration According to time available. In general, the longer the better, although a minute or two is sufficient between asana practices",
+        "Benifits": "This asana relaxes the whole psycho-physiological system. It should ideally be practised before sleep; before, during and after asana practice, particularly after dynamic exercises such as surya namaskara; and when the practitioner feels physically and mentally tired. It develops body awareness. When the body is completely relaxed, awareness of the mind increases, developing pratyahara.",
+        "Category": "Relexation Asana"
+    },
+    {
+        "Name": "Surya Namskara",
+        "Image": [
+            "./image/Prnamasana.png",
+            "./image/HASTA_UTTHANASANA.png",
+            "./image/Padahastasana.png",
+            "./image/ASHWA_SANCHALANASANA.png",
+            "./image/PARVATASANA.png",
+            "./image/ASHTANGA_NAMASKARA.png",
+            "./image/BHUJANGASANA.png",
+            "./image/savasana.png"
+        ],
+        "Tag": [
+            "Surya Namskara",
+            "Pranamasana",
+            "HASTA UTTHANASANA",
+            "Padahastasana (hand to foot pose)",
+            "ASHWA SANCHALANASANA",
+            "PARVATASANA",
+            "ASHTANGA NAMASKARA",
+            "BHUJANGASANA",
+            "Shavasana (corpse pose)",
+            "Namskara"
+        ],
+        "Description": " Position:1 (Pranamasna) Keep the eyes closed.Remain standing upright with the feet together.Slowly bend the elbows and place the palms together in front of the chest in namaskara mudra, mentally offering homage to the sun, the source of all life.Relax the whole body.Breathing : Breathe normally. Position:2 (HASTA UTTHANASANA) Seperate the hands, raise and stretch both arms above the head, keeping them shoulder width apart.Bend the head, arms and upper trunk slightly backward.Breathing : Inhale while raising the arms. Position:3 (Padahastasana (hand to foot pose)) Bend forward from the hips until the fingers or palms of the hands touch the floor on either side of the feet.Bring the forehead as close to the knees as is comfortable. Do not strain. Keep the knees straight.Breathing : Exhale while bending forward.Contract the abdomen in the final position to expel the maximum amount of air from the lungs. Position:4 (ASHWA SANCHALANASANA) Place the hands on the floor beside the feet. Stretch the right leg back as far as is comfortable and grasp the floor with the toes.At the same time, bend the left knee, keeping the left foot on the floor in the same position. Keep the arms straight. In the final position, the weight of the body should be supported on both hands,the left foot, right knee and toes of the right foot. The head should be tilted backward, the back arched and the inner gaze directed upward to the eyebrow centre.Breathing : Inhale while stretching the right leg back. Position:5 (PARVATASANA) Keep the hands and right foot still, and take the left foot back beside the right foot.Simultaneously, raise the buttocks and lower the head between the arms so that the back and legs form two sides of a triangle.The legs and arms straighten in the final position and the heels come down towards the floor in the final pose. Bring the head and shoulders towards the knees. Do not strain.Breathing : Exhale while taking the left leg back.Position 6: (ASHTANGA NAMASKARA) Keep the hands and feet in place.Lower the knees, chest and chin to the floor; the feet will come up on to the toes.In the final position only the toes, knees, chest, hands and chin touch the floor. The knees, chest and chin should touch the floor simultaneously. If this is not possible, first lower the knees, then the chest, and finally the chin.The buttocks, hips and abdomen should be raised.Breathing : The breath is held out in this pose. There is no respiration.Position 7:(BHUJANGASANA) Keep the hands and feet in place.Slide the chest forward and raise first the head, the shoulders, then, straightening the elbows,arch the back into the cobra pose. This will lower the buttocks and hips to the floor.Bend the head back and direct the gaze upward to the eyebrow centre.The thighs and hips remain on the floor and the arms support the trunk.Unless the spine is very flexible the arms will remain slightly bent.Breathing : Inhale while raising the torso and arching the back.Position 8: Parvatasana (mountain pose) The hands and feet do not move from position 7.From bhujangasana assume parvatasana.Keep the arms and legs straight, grip the floor with the toes and use the strength of the arms to raise the buttocks and lower the heels to the floor. Breathing : Exhale while raising the buttocks. Position 9: Ashwa Sanchalanasana (equestrian pose) Keep the palms flat on the floor and the right foot in place. Bend the left leg and bring the left foot forward between the hands. Simultaneously, lower the right knee so that it touches the floor and push the pelvis forward. Tilt the head backward, arch the back and gaze at the eyebrow centre. Breathing : Inhale while assuming the pose. Position 10: Padahastasana (hand to foot pose) Bring the right foot forward next to the left foot.Straighten both legs.Bring the forehead as close to the knees as possible without straining.Breathing : Exhale while performing the movement.Position 11: Hasta Utthanasana (raised arms pose) Keep the arms and spine in a straight line.Raise the torso and stretch the arms above the head.Keep the arms separated, shoulder width apart.Bend the head, arms and upper trunk backward slightly. Position 12: Pranamasana (prayer pose) Bring the palms together in front of the chest.Breathing : Exhale while assuming the final position. Positions 13–24 : The twelve positions of surya namaskara are practised twice to complete oneround. Positions 1 to 12 constitute half a round. In the second half, the positions are repeated with two small changes related to ashwa sanchalanasana: a) In position 16, instead of stretching the right foot backward, stretch the left foot back.b) In position 21, bend the right leg and bring the right foot between the hands. Conclusion : On the completion of each half round, lower the arms to the side, relax the body and concentrate on the breath until it returns to normal. After completing surya namaskara, practise shavasana for a few minutes. This will allow the heartbeat and respiration to return to normal and all the muscles to relax. Duration : For spiritual benefits, practise 3 to 12 rounds slowly. For physical benefits, practise 3 to 12 rounds more quickly. Beginners should start with 2 or 3 rounds and add one more round every few weeks to avoid fatigue. Advanced students may practise a larger number of rounds; however,strain should be avoided at all times. In special cases, a daily practice of 108 rounds may be undertaken for purification, but only under the guidance of a competent teacher.Beeja mantras : As an alternative to the twelve names of the sun, there is a series of bija mantras or seed syllables. Bija mantras do not have any literal meaning, but set up powerful vibrations of energy within the mind and body. The six bija mantras are repeated consecutively in the following order, four times during a complete round of surya namaskara: 1. Om Hraam 2. Om Hreem 3. Om Hroom 4. Om Hraim 5. Om Hraum 6. Om Hrah Bija mantras are used when surya namaskara is practised too fast to repeat the sun mantras, or in order to deepen the practice.",
+        "Benifits": "The practice of surya namaskara as a whole gives a great number of benefits. It strengthens the back and helps balance the metabolism. It stimulates and balances all the systems of the body, including the reproductive, circulatory, respiratory and digestive systems. Its influence on the endocrine glands helps to balance the transition period between childhood and adolescence in growing children. Synchronizing the breath with the physical movements of surya namaskara ensures that the practitioner, at least for a few minutes daily, breathes as deeply and rhythmically as possible,increasing mental clarity by bringing fresh, oxygenated blood to the brain.",
+        "Category": "Namskara"
+    },
+    {
+        "Name": "BHUJANGASANA",
+        "Image": [
+            "./image/BHUJANGASANA.png"
+        ],
+        "Tag": [
+            "BHUJANGASANA"
+        ],
+        "Description": "Keep the hands and feet in place.Slide the chest forward and raise first the head, the shoulders, then, straightening the elbows,arch the back into the cobra pose. This will lower the buttocks and hips to the floor.Bend the head back and direct the gaze upward to the eyebrow centre.The thighs and hips remain on the floor and the arms support the trunk.Unless the spine is very flexible the arms will remain slightly bent.Breathing : Inhale while raising the torso and arching the back.",
+        "Benifits": " ",
+        "Category": "Asana"
+    },
+    {
+        "Name": "ASHTANGA NAMASKARA",
+        "Image": [
+            "./image/ASHTANGA_NAMASKARA.png"
+        ],
+        "Tag": [
+            "ASHTANGA NAMASKARA"
+        ],
+        "Description": "Keep the hands and feet in place.Lower the knees, chest and chin to the floor; the feet will come up on to the toes.In the final position only the toes, knees, chest, hands and chin touch the floor. The knees, chest and chin should touch the floor simultaneously. If this is not possible, first lower the knees, then the chest, and finally the chin.The buttocks, hips and abdomen should be raised.Breathing : The breath is held out in this pose. There is no respiration.",
+        "Benifits": "This pose strengthens the leg and arm muscles, develops the chest and exercises the region of the spine between the shoulder blades.",
+        "Category": "Namskara"
+    },
+    {
+        "Name": "PARVATASANA",
+        "Image": [
+            "./image/PARVATASANA.png"
+        ],
+        "Tag": [
+            "PARVATASANA"
+        ],
+        "Description": "Keep the hands and right foot still, and take the left foot back beside the right foot.Simultaneously, raise the buttocks and lower the head between the arms so that the back and legs form two sides of a triangle.The legs and arms straighten in the final position and the heels come down towards the floor in the final pose. Bring the head and shoulders towards the knees. Do not strain.Breathing : Exhale while taking the left leg back.",
+        "Benifits": "This pose strengthens the nerves and muscles in the limbs and back. It helps to increase height by stretching muscles and ligaments, enabling growing bones to grow longer. Circulation is stimulated, especially in the upper spine between the shoulder blades.",
+        "Category": "Asana"
+    },
+    {
+        "Name": "ASHWA SANCHALANASANA",
+        "Image": [
+            "./image/ASHWA_SANCHALANASANA.png"
+        ],
+        "Tag": [
+            "ASHWA SANCHALANASANA"
+        ],
+        "Description": "Place the hands on the floor beside the feet. Stretch the right leg back as far as is comfortable and grasp the floor with the toes.At the same time, bend the left knee, keeping the left foot on the floor in the same position. Keep the arms straight. In the final position, the weight of the body should be supported on both hands,the left foot, right knee and toes of the right foot. The head should be tilted backward, the back arched and the inner gaze directed upward to the eyebrow centre.Breathing : Inhale while stretching the right leg back.",
+        "Benifits": " ",
+        "Category": "Asana"
+    },
+    {
+        "Name": "Padahastasana (hand to foot pose)",
+        "Image": [
+            "./image/Padahastasana.png"
+        ],
+        "Tag": [
+            "Padahastasana (hand to foot pose)"
+        ],
+        "Description": "Bend forward from the hips until the fingers or palms of the hands touch the floor on either side of the feet.Bring the forehead as close to the knees as is comfortable. Do not strain. Keep the knees straight.Breathing : Exhale while bending forward.Contract the abdomen in the final position to expel the maximum amount of air from the lungs.",
+        "Benifits": " ",
+        "Category": "Asana"
+    },
+    {
+        "Name": "HASTA UTTHANASANA",
+        "Image": [
+            "./image/HASTA_UTTHANASANA.png"
+        ],
+        "Tag": [
+            "HASTA UTTHANASANA"
+        ],
+        "Description": "Seperate the hands, raise and stretch both arms above the head, keeping them shoulder width apart.Bend the head, arms and upper trunk slightly backward.Breathing : Inhale while raising the arms.",
+        "Benifits": " ",
+        "Category": "Asana"
+    },
+    {
+        "Name": "Pranamasana",
+        "Image": [
+            "./image/Prnamasana.png"
+        ],
+        "Tag": [
+            "Pranamasana"
+        ],
+        "Description": "Keep the eyes closed.Remain standing upright with the feet together.Slowly bend the elbows and place the palms together in front of the chest in namaskara mudra, mentally offering homage to the sun, the source of all life.Relax the whole body.Breathing : Breathe normally.",
+        "Benifits": "This pose establishes a state of concentration and calmness in preparation for the practice to be performed.",
+        "Category": "Asana"
+    }
+]
